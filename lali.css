@@ -1,0 +1,17 @@
+header
+{
+	font-size:40px;
+}
+main
+{
+	background-color:black;
+	color:white;
+}
+p
+{
+	border:5px;
+}
+footer
+{
+	background-color:pink;
+}
